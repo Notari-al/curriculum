@@ -1,5 +1,12 @@
 /todo
 
+.cache
+.devenv
+.direnv
+.hex
+.mix
+.pre-commit-config.yaml
+
 demos/*/_build/
 demos/*/cover/
 demos/*/deps/
@@ -13,4 +20,3 @@ demos/*/priv/static/assets/
 demos/*/priv/static/cache_manifest.json
 demos/*/npm-debug.log
 demos/*/assets/node_modules/
-
