@@ -1,5 +1,5 @@
 {
-  description = "Elixir Template Project";
+  description = "Curriculum Template Project";
 
   nixConfig = {
     extra-substituters = [
